@@ -1,0 +1,32 @@
+aid: cloudmersive-document-and-data-conversion
+name: Cloudmersive Document and Data Conversion
+description: "HTML/URL to PDF/PNG, Office documents to PDF, image conversion"
+url: https://cloudmersive.com/convert-api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Documents & Productivity"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Documents And Productivity
+  - Public APIs
+apis:
+  - name: Cloudmersive Document and Data Conversion
+    description: "HTML/URL to PDF/PNG, Office documents to PDF, image conversion"
+    humanURL: https://cloudmersive.com/convert-api
+    baseURL: https://cloudmersive.com/convert-api
+    tags:
+      - Documents And Productivity
+    properties:
+      - type: Documentation
+        url: https://cloudmersive.com/convert-api
+common:
+  - type: Website
+    url: https://cloudmersive.com/convert-api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
