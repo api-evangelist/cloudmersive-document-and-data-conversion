@@ -1,4 +1,16 @@
 aid: cloudmersive-document-and-data-conversion
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/cloudmersive-document-and-data-conversion.png
 name: Cloudmersive Document and Data Conversion
 description: "HTML/URL to PDF/PNG, Office documents to PDF, image conversion"
 url: https://cloudmersive.com/convert-api
