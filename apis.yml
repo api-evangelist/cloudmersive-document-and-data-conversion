@@ -40,7 +40,8 @@ apis:
   - name: Cloudmersive Document and Data Conversion
     description: "HTML/URL to PDF/PNG, Office documents to PDF, image conversion"
     humanURL: https://cloudmersive.com/convert-api
-    tags:
+    tags: []
+    tags_raw:
       - Documents And Productivity
     properties:
       - type: Documentation
